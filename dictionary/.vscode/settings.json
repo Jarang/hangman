@@ -1,0 +1,76 @@
+{
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "entity.name.type.module.elixir",
+        "name": "FunctionNames",
+        "settings": {
+          "foreground": "#4EC9B0"
+        }
+      },
+      {
+        "scope": "entity.name.function.elixir",
+        "name": "StandardLibFunctionNames",
+        "settings": {
+          "foreground": "#DCDCAA"
+        }
+      },
+      {
+        "scope": "keyword.control.elixir",
+        "name": "DoEndNames",
+        "settings": {
+          "foreground": "#569CD6"
+        }
+      },
+      {
+        "scope": "keyword.control.module.elixir",
+        "name": "DefModuleNames",
+        "settings": {
+          "foreground": "#569CD6"
+        }
+      },
+      {
+        "scope": "constant.language.symbol.elixir",
+        "name": "AtomNames",
+        "settings": {
+          "foreground": "#4FC1FF"
+        }
+      },
+      {
+        "scope": "variable.other.constant.elixir",
+        "name": "StandardLibNames",
+        "settings": {
+          "foreground": "#4EC9B0"
+        }
+      },
+      {
+        "scope": "entity.name.function-call.elixir",
+        "name": "StandardLibFunctionNames",
+        "settings": {
+          "foreground": "#DCDCAA"
+        }
+      },
+      {
+        "scope": "keyword.other.special-method.elixir",
+        "name": "AliasNames",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "variable.other.readwrite.module.elixir",
+        "name": "ModuleAttributesNames",
+        "settings": {
+          "foreground": "#d57373"
+        }
+      },
+      {
+        "scope": "keyword.operator.other.elixir",
+        "name": "PipeNames",
+        "settings": {
+          "foreground": "#64d462"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "entity.name.type.module.elixir",
+        "name": "FunctionNames",
+        "settings": {
+          "foreground": "#4EC9B0"
+        }
+      },
+      {
+        "scope": "entity.name.function.elixir",
+        "name": "StandardLibFunctionNames",
+        "settings": {
+          "foreground": "#DCDCAA"
+        }
+      },
+      {
+        "scope": "keyword.control.elixir",
+        "name": "DoEndNames",
+        "settings": {
+          "foreground": "#569CD6"
+        }
+      },
+      {
+        "scope": "keyword.control.module.elixir",
+        "name": "Defmodule",
+        "settings": {
+          "foreground": "#569CD6"
+        }
+      },
+      {
+        "scope": "constant.language.symbol.elixir",
+        "name": "Atoms",
+        "settings": {
+          "foreground": "#4FC1FF"
+        }
+      },
+      {
+        "scope": "variable.other.constant.elixir",
+        "name": "StandardLibNames",
+        "settings": {
+          "foreground": "#4EC9B0"
+        }
+      },
+      {
+        "scope": "entity.name.function-call.elixir",
+        "name": "Standard Lib Function Names",
+        "settings": {
+          "foreground": "#DCDCAA"
+        }
+      },
+      {
+        "scope": "keyword.other.special-method.elixir",
+        "name": "Alias",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "variable.other.readwrite.module.elixir",
+        "name": "Module Attributes",
+        "settings": {
+          "foreground": "#d57373"
+        }
+      },
+      {
+        "scope": "keyword.operator.other.elixir",
+        "name": "Pipe (|>)",
+        "settings": {
+          "foreground": "#64d462"
+        }
+      },
+      {
+        "scope": "comment.unused.elixir",
+        "name": "Unused Params",
+        "settings": {
+          "foreground": "#636363"
+        }
+      },
+      {
+        "scope": "comment.wildcard.elixir",
+        "name": "Wildcard (_)",
+        "settings": {
+          "foreground": "#636363"
+        }
+      },
+      {
+        "scope": "variable.language.elixir",
+        "name": "__MODULE__",
+        "settings": {
+          "foreground": "#D57373"
+        }
+      },
+      {
+        "scope": "parameter.variable.function.elixir",
+        "name": "__MODULE__",
+        "settings": {
+          "foreground": "#9CDCFE"
+        }
+      }
+    ]
+  }
+}
